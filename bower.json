@@ -1,0 +1,7 @@
+{
+  "name": "utils-urlize",
+  "main": "utils-urlize.html",
+  "dependencies": {
+    "urlize.js": "ljosa/urlize.js"
+  }
+}
